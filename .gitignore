@@ -1,0 +1,18 @@
+# Free Pascal / Lazarus
+
+# Directories to ignore
+bin/
+lib/
+
+# Backup files
+backup
+
+# Compiled object files
+*.o
+*.a
+*.so
+*.exe
+*.dll
+
+# Lazarus project files
+*.lps
